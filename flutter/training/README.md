@@ -9,3 +9,10 @@
                 * Text
                 * Icon
             * Text
+
+## Installation 
+[ Flutter installation linux ]("https://flutter.dev/docs/get-started/install/linux")
+
+install flutter
+install android studio
+android studio -> config -> plugins -> search flutter -> install -> restart IDE
